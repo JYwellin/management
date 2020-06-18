@@ -1,4 +1,4 @@
-#企业权限管理系统
+# 企业权限管理系统
 
 基于Spring、SpringMVC、Mybatis框架整合的权限管理系统，主要技术是运用了SpringSecurity框架对用户访问页面的某些模块设置权限.
 
